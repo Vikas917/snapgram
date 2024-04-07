@@ -1,7 +1,5 @@
-### Instagram Clone App - Firebase | Kotlin Coroutines | MVVM 
+### SnapGram - An Instagram Clone App - Firebase | Kotlin Coroutines | MVVM 
 #####      Developed by Developer Vikas
-![App Demo](./images/DEMO.gif)
-
 
 #### Firebase Firestore Structure 
 
