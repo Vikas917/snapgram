@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "356118165475",
+    "project_id": "instaclone-cb971",
+    "storage_bucket": "instaclone-cb971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356118165475:android:7f7334c653a6c03aef92d6",
+        "android_client_info": {
+          "package_name": "com.example.samgram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBjvD37InspxuKfs32R8_7Rd9wGY1eOPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356118165475:android:cad1461422e53065ef92d6",
+        "android_client_info": {
+          "package_name": "com.package.samgram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBjvD37InspxuKfs32R8_7Rd9wGY1eOPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
